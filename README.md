@@ -2,7 +2,7 @@
 
 This project analyzes trends in video game sales for various platforms and publishers starting in 1980 going up to 2020.
 
-##The dataset
+## The dataset
 The original data used for this project can be found at: [https://gist.github.com/designernatan/27da044c6dc823f7ac7fe3a01f4513ed](https://gist.github.com/designernatan/27da044c6dc823f7ac7fe3a01f4513ed)
 
 ## Technology used
