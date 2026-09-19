@@ -1,5 +1,4 @@
-# VideoGameSalesTrends
-
+# 🎮VideoGameSalesTrends
 This project analyzes trends in video game sales for various platforms and publishers starting in 1980 going up to 2020.
 
 ## The dataset
